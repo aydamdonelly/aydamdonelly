@@ -1,6 +1,6 @@
 <div text-align="left">
   <h1>👋 Hey, I'm Adam.</h2>
-  <p>I'm currently taking part in IBM's Dual Study programme. I am majoring in 'Business Informatics - Data Science'.</p>
+  <p>I'm currently taking part in IBM's Dual Study program. I am majoring in 'Business Informatics - Data Science'.</p>
   <h2>👥 My social channels</h3>
   <a target="_blank" href="https://www.linkedin.com/in/adam-kahirov-935985193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=aydamdonelly&label=Profile%20Views&color=4&icon=6&pretty=true" /></a>
   <h2>🖥️ My tech stack</h2>
